@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 
 - [About Me](#about-me)
 - [Resume](#resume)
-- [Skills](#skills)
+- [Testing Tools](#testing-tools)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Contact Me](#Contact-Me)
@@ -24,7 +24,6 @@ Quality Assurance Engineer with almost 5 years of experience seeking a challengi
 ## Resume
 View my professional resume and work history. Here is the <a href="https://docs.google.com/document/d/1uxYLlVIIQQITTtbYFacG_p4qRNEbY8mHKhNYQYpmGdo/edit" target="_blank" rel="noopener noreferrer">Resume Link</a> 
 
-## Skills
 ## Testing Tools:
 #### Selenium WebDriver
   - Powerful tool for automating web and mobile applications testing.
