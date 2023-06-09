@@ -36,12 +36,11 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Open-source tool for load and performance testing.
   - Created extensive testplans for the stakeholders and generated HTML reports.
   
-- Postman
-- Cypress
-- Appium
-- Pycharm IDE
-- Jenkins
-- Azure Devops
+#### Postman
+#### Cypress
+#### Appium
+#### Pycharm IDE
+#### Jenkins
 Programming Languages: Java, Python, POM pattern
 Version Control: Git, CI/CD and running script on jenkins server
 Bug Tracking: JIRA, Bugzilla
