@@ -60,33 +60,34 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Widely-used open-source automation server for CI/CD.
   - Enables building, testing, and deploying software projects.
   
-### Programming Languages: 
+#### Programming Languages: 
   - Python
   - Java
   - JavaScript
  
-### Bug Tracking: 
+#### Bug Tracking: 
   - JIRA
   - Clickup
   - Trello
   
-### Databases: 
+#### Databases: 
   - MongoDB
 
-### Agile Methodologies: 
+#### Agile Methodologies: 
 Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
-## Tools
-Explore the various programming languages, development frameworks, and tools that I frequently use in my projects. This section provides an insight into my preferred development environment.
+## Github Repository
+  - Automation of Kwiktrust NFT web application:
+https://github.com/farhaanshareef/KwikTrustNFTApp
 
-## Courses
-Find out about the relevant courses I have completed to enhance my knowledge and skills. This section includes information about online courses, certifications, and training programs I have undertaken.
+  - Understanding the waits in selenium:
+https://github.com/farhaanshareef/WaitsSelenium
 
 ## Contact Me
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to say hello. You can connect with me through the following channels:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
-- Website: [Your Website](https://www.yourwebsite.com)
+- Email: [malikfarhan3200@gmail.com](mailto:malikfarhan3200@gmail.com)
+- LinkedIn: [Farhan Sharif](https://www.linkedin.com/in/farhaansharif/)
+- Youtube Link: [SQA Insights](https://www.youtube.com/channel/UCaCiqSUI0bKeCA2FVtfW71A)
 
 Thank you for visiting my portfolio repository!
