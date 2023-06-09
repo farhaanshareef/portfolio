@@ -58,6 +58,9 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Offers a wide range of features for efficient development.
 
 #### Jenkins
+  - Widely-used open-source automation server for CI/CD.
+  - Enables building, testing, and deploying software projects.
+  
 Programming Languages: Java, Python, POM pattern
 Version Control: Git, CI/CD and running script on jenkins server
 Bug Tracking: JIRA, Bugzilla
