@@ -60,12 +60,20 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Widely-used open-source automation server for CI/CD.
   - Enables building, testing, and deploying software projects.
   
-Programming Languages: Java, Python, POM pattern
-Version Control: Git, CI/CD and running script on jenkins server
-Bug Tracking: JIRA, Bugzilla
-Databases: MySQL, MongoDB
-Operating Systems: Windows, Linux
-Agile Methodologies: Scrum, Kanban
+### Programming Languages: 
+  - Python
+  - Java
+  - JavaScript
+ 
+### Bug Tracking: 
+  - JIRA
+  - Clickup
+  - Trello
+  
+### Databases: 
+  - MongoDB
+
+### Agile Methodologies: 
 Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
 ## Tools
