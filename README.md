@@ -35,8 +35,14 @@ View my professional resume and work history. Here is the <a href="https://docs.
 #### JMeter
   - Open-source tool for load and performance testing.
   - Created extensive testplans for the stakeholders and generated HTML reports.
+  - Implemented data-driven testing using JSON and CSV files.
   
 #### Postman
+  - Popular API testing tool with a user-friendly interface.
+  - Created collections and performed unit testing for each endpoint using Postman.
+  - Conducted end-to-end testing using the collection runner feature in Postman.
+  - Implemented data-driven testing using JSON and CSV files in Postman.
+
 #### Cypress
 #### Appium
 #### Pycharm IDE
