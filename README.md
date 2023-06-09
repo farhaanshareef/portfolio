@@ -112,6 +112,11 @@ Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) pl
 
 https://atlasdex.finance/
 
+### DukkanTek POS:
+Dukkantek POS is a retail-focused Point of Sale system that streamlines operations and enhances customer experience. It integrates sales, inventory management, and CRM functions into a comprehensive software solution. Businesses can process transactions efficiently, track inventory in real-time, and manage customer data effectively. With its user-friendly interface and customizable features, Dukkantek POS aims to optimize retail operations and drive business growth.
+
+https://play.google.com/store/apps/details?id=com.dukkantek.pos&hl=en&gl=US
+
 ### Add.XYZ DEFI protocol mobile application
 ADD.XYZ is the next generation of DeFi Mobile Apps, Monitor your portfolio, lend  your assets, check the news and seamlessly access other Decentralised Finance Protocols on Mobile.
 
