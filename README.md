@@ -98,6 +98,15 @@ https://github.com/farhaanshareef/IframesandDropdown
  
 https://github.com/farhaanshareef/Alerthandling
 
+## Projects
+
+Atlas Dex:
+
+Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) platform for trading cryptocurrencies, providing users with a secure and transparent environment for their transactions.
+
+https://atlasdex.finance/
+
+
 ## Contact Me
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to say hello. You can connect with me through the following channels:
 
