@@ -128,12 +128,12 @@ Meggafone is a web application and tool for users to schedule their posts on soc
 https://app.meggafone.com/user/registeruser?id=0
 
 ### Piptle wallet based mobile application
-The Pipezi Wallet is a mnemonics-based mobile wallet that is highly secure, that stores your crypto assets. It currently supports Ethereum and ERC20 tokens. As a decentralized wallet, it provides you with the security and privacy you are looking for in an easy-to-use and accessible interface. You can easily switch between mobiles and restore your assets by using a 12-Word Mnemonic phrase. Coming soon will be the addition of BTC and Tron-based TRC20 tokens. Application is live and available on the Apple and google play store.
+The Pipezi Wallet is a mnemonics-based mobile wallet that is highly secure, that stores your crypto assets. It currently supports Ethereum and ERC20 tokens. As a decentralized wallet, it provides you with the security and privacy you are looking for in an easy-to-use and accessible interface. You can easily switch between mobiles and restore your assets by using a 12-Word Mnemonic phrase. Application is live and available on the Apple and google play store.
 
 https://play.google.com/store/apps/details?id=com.pipezi&hl=en&gl=US
 
 ### StudioDrops NFT web application
-Studio Drops is a Whitelabel marketing platform and a marketplace that services enterprises to promote and sell curated art (digital and physical) on behalf of brands and artists associated with them. We are creating an exclusive and exceptional NFT platform-as-a-Service (PaaS) proposition so that enterprises can retain the exclusive brand identity and service their brands and artists and their respective communities. The platform will enable the exhibition, primary and secondary purchase marketplaces for NFTs in a variety of ways including but not limited to live auctions, silent auctions, raffles and direct purchases. This will be powered by an easy to use back-office application that will allow artists and enterprises alike to configure NFTs, smart contracts and revenue models per NFT through a few clicks in an efficient and transparent manner.
+Studio Drops is a Whitelabel marketing platform and a marketplace that services enterprises to promote and sell curated art (digital and physical) on behalf of brands and artists associated with them. The platform will enable the exhibition, primary and secondary purchase marketplaces for NFTs in a variety of ways including but not limited to live auctions, silent auctions, raffles and direct purchases.
 
 https://test.studiodrops.com/
 
