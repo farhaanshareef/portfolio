@@ -50,7 +50,8 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Automated and wrote automation scripts for the regression suite of an Android mobile app using Selenium and Appium.
 
 #### Cypress
-
+  - Modern JavaScript-based end-to-end testing framework.
+  - Enables fast, reliable, and easy-to-write automated tests.
 
 #### Pycharm IDE
 #### Jenkins
