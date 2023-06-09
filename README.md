@@ -164,6 +164,8 @@ https://docs.google.com/document/d/1oB6udfLj57EeH49YACGOzFE8JTbUJAzs9LiLhaV56EY/
 
 https://drive.google.com/file/d/19En4LLYhALcYxVmMU4GvvS19PMR-dyQY/view?usp=sharing
 
+https://docs.google.com/document/d/1vzjaQRi48tOA9P5L0UqquSUHo2wc5Mci/edit?usp=sharing&ouid=102726326802375563997&rtpof=true&sd=true
+
 https://drive.google.com/file/d/1wbiX9N2pSKfroMzy9oQ1Qeu-LZyZjCuX/view?usp=sharing
 
 https://drive.google.com/file/d/1T8I59AQJxZQn18IXDI_VPCT-haxVn2u3/view?usp=sharing
@@ -177,6 +179,20 @@ https://drive.google.com/file/d/1AqAbIXO3mJP-qa1JtPcJIQwmvzeLVDpM/view?usp=shari
 https://drive.google.com/file/d/1yZFufTNt4E_pLVmIi93Nlb-fDRGBKbId/view?usp=sharing
 
 https://drive.google.com/file/d/1bttPYy9Ulc7M1Em85zcB6Een43YW5a6g/view?usp=sharing
+
+### - Bug Reports:
+
+https://docs.google.com/spreadsheets/d/1EqsCuhS6gufXLlHtV4Qg4yd5lKUHEb9DbXSWA5QxDbU/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1dv9p2EmA30p22sX96K3wazgy1WrdpCTwi6RyjmUgMOo/edit?usp=sharing
+
+https://docs.google.com/document/d/1pvVZVVM05lQsmUq0ph5GzEHQ7HVHzp9CIqGB3irSvqE/edit?usp=sharing
+
+https://docs.google.com/document/d/1HbztWbRTBBhAqWbXOtkhx8R_wgFNK_i64fBRZgAmAZI/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1MYLf4dFtGqOqkXa_YZHoZdcNOwHDbrSN/edit?usp=sharing&ouid=102726326802375563997&rtpof=true&sd=true
+
+https://docs.google.com/spreadsheets/d/16WeA0uZ1iqVqgVDWibJSkvn0d3YHbXCwAokzpTfqkzQ/edit?usp=sharing
 
 
 ## Wireframes
