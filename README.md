@@ -24,6 +24,9 @@ Quality Assurance Engineer with almost 5 years of experience seeking a challengi
 ## Resume
 View my professional resume and work history. Here is the <a href="https://docs.google.com/document/d/1uxYLlVIIQQITTtbYFacG_p4qRNEbY8mHKhNYQYpmGdo/edit" target="_blank" rel="noopener noreferrer">Resume Link</a> 
 
+<p>To learn how to code for free, please visit <a href="https://www.freecodecamp.org/learn" target="_blank">freeCodeCamp.org</a></p>
+
+
 ## Skills
 Discover the technical skills I have acquired throughout my career. This section highlights the programming languages, frameworks, and tools I am proficient in.
 
