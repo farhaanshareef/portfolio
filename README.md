@@ -93,6 +93,10 @@ https://github.com/farhaanshareef/GamesfiApp
   
 https://github.com/farhaanshareef/IframesandDropdown
 
+  - Alert handling in selenium examples
+ 
+https://github.com/farhaanshareef/Alerthandling
+
 ## Contact Me
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to say hello. You can connect with me through the following channels:
 
