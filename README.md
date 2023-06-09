@@ -12,7 +12,15 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Contact Me](#Contact-Me)
 
 ## About Me
-In this section, you can learn more about my background, experience, and professional journey.
+Quality Assurance Engineer with almost 5 years of experience seeking a challenging role in software product quality assurance. Skilled in test planning, execution, and bug tracking, with expertise in manual testing, API testing, and test automation. Committed to delivering high-quality software solutions. 
+
+5 years of experience in software product quality assurance.
+Strong knowledge of test planning, implementation, and execution.
+Proficient in manual testing, API testing, and test automation tools.
+Experience in identifying high-level test strategies and troubleshooting issues.
+Strong collaboration and communication skills with cross-functional teams.
+Detail-oriented and committed to delivering high-quality software products.
+
 
 ## Resume
 View my professional resume and work history. This section provides an overview of my education, employment, and relevant experiences.
