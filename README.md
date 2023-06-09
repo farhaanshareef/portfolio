@@ -54,6 +54,9 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Enables fast, reliable, and easy-to-write automated tests.
 
 #### Pycharm IDE
+  - Powerful Python IDE with intelligent code assistance.
+  - Offers a wide range of features for efficient development.
+
 #### Jenkins
 Programming Languages: Java, Python, POM pattern
 Version Control: Git, CI/CD and running script on jenkins server
