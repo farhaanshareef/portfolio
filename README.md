@@ -10,6 +10,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Tools](#tools)
 - [Github Repository](#Github-Repository)
 - [Projects](#Projects)
+- [Documents](#Documents)
 - [Wireframes](#wireframes)
 - [Contact Me](#Contact-Me)
 
@@ -143,8 +144,26 @@ Studio Drops is a Whitelabel marketing platform and a marketplace that services 
 
 https://test.studiodrops.com/
 
+## Documents
+Below are the links of the documents that have been created me for the organizations and stakeholders.
+
+### Testplan document:
+
+https://docs.google.com/document/d/1DuJXw0tnrPgrEFXjUUlNKbSzkbnGTx8T/edit?usp=sharing&ouid=102726326802375563997&rtpof=true&sd=true
+
+### Testcases:
+
+https://docs.google.com/document/d/18Ef38T46CrW9vsqYom1PLL3V32KLKmmcfGfGRdsyUow/edit?usp=sharing
+
+https://docs.google.com/document/d/1yHsCI9_urMAwpxobT2UEwYRYX8xLBDMA0mBWnGYeESM/edit?usp=sharing
+
+https://docs.google.com/document/d/17zdgFxrGtKqrN9aoRibVbiGxrX_21F5l_zWZa2F0biw/edit?usp=sharing
+
+https://docs.google.com/document/d/1oB6udfLj57EeH49YACGOzFE8JTbUJAzs9LiLhaV56EY/edit?usp=sharing
+
+
 ## Wireframes
-Below is the Link of wireframes that have been created by me for the multiple stakeholders
+Below are the Links of wireframes that have been created by me for the multiple stakeholders
 
 https://drive.google.com/file/d/19RFCJW7drm-R9rUcCyZdZF_lGbAq8Euo/view?usp=sharing
 
