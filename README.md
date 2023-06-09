@@ -10,6 +10,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Tools](#tools)
 - [Github Repository](#Github-Repository)
 - [Projects](#Projects)
+- [Wireframes](#wireframes)
 - [Contact Me](#Contact-Me)
 
 ## About Me
@@ -141,6 +142,23 @@ https://play.google.com/store/apps/details?id=com.pipezi&hl=en&gl=US
 Studio Drops is a Whitelabel marketing platform and a marketplace that services enterprises to promote and sell curated art (digital and physical) on behalf of brands and artists associated with them. The platform will enable the exhibition, primary and secondary purchase marketplaces for NFTs in a variety of ways including but not limited to live auctions, silent auctions, raffles and direct purchases.
 
 https://test.studiodrops.com/
+
+## Wireframes
+Below is the Link of wireframes that have been created by me for the multiple stakeholders
+
+https://drive.google.com/file/d/19RFCJW7drm-R9rUcCyZdZF_lGbAq8Euo/view?usp=sharing
+
+https://drive.google.com/file/d/10G-Iyp7vY8oKkxgQY6GdQegB0QT9--cQ/view?usp=sharing
+
+https://drive.google.com/file/d/1KRJi2TDsNGJwHH5Bqi6HnWwNKOXQZHUh/view?usp=sharing
+
+https://drive.google.com/file/d/13JtQiudypc2FcEkM7KX_SyVZyNuDdNLC/view?usp=sharing
+
+https://drive.google.com/file/d/1EzOGSgZhmSrAfgIti1v3pLKpM3zfj5bU/view?usp=sharing
+
+https://drive.google.com/file/d/1SPVvrh8q_7d1Urp8eVqhg7-5KgvSfsdl/view?usp=sharing
+
+https://drive.google.com/file/d/1RsvPITn-sRLFPOb7lclj6vXfqxPAV204/view?usp=sharing
 
 
 ## Contact Me
