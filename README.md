@@ -102,44 +102,44 @@ https://github.com/farhaanshareef/Alerthandling
 
 ## Projects
 
-### KwikTrust NFT web application:
+### - KwikTrust NFT web application:
 
 KwikTrust is a project that aims to revolutionize document verification and authentication processes. It offers a secure and efficient platform for individuals and organizations to verify the authenticity of documents and identities. Through the use of advanced technologies like blockchain and artificial intelligence, KwikTrust ensures tamper-proof verification and eliminates the need for physical document handling. It streamlines processes, reduces fraud, and enhances trust in various industries such as finance, real estate, and legal services. KwikTrust is poised to simplify document verification while enhancing security and reliability in a digital world.
 
 https://kwiktrust.com/
 
-### Atlas Dex:
+### - Atlas Dex:
 
 Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) platform for trading cryptocurrencies, providing users with a secure and transparent environment for their transactions.
 
 https://atlasdex.finance/
 
-### DukkanTek POS:
+### - DukkanTek POS:
 Dukkantek POS is a retail-focused Point of Sale system that streamlines operations and enhances customer experience. It integrates sales, inventory management, and CRM functions into a comprehensive software solution. Businesses can process transactions efficiently, track inventory in real-time, and manage customer data effectively. With its user-friendly interface and customizable features, Dukkantek POS aims to optimize retail operations and drive business growth.
 
 https://play.google.com/store/apps/details?id=com.dukkantek.pos&hl=en&gl=US
 
-### Add.XYZ DEFI protocol mobile application
+### - Add.XYZ DEFI protocol mobile application
 ADD.XYZ is the next generation of DeFi Mobile Apps, Monitor your portfolio, lend  your assets, check the news and seamlessly access other Decentralised Finance Protocols on Mobile.
 
 https://add.xyz/
 
-### JENR8 Crypto wallet and NFT mobile application
+### - JENR8 Crypto wallet and NFT mobile application
 JENR8 is a block chain-based wallet mobile application where users can send and receive ERC-20 tokens. Users can also import their NFT's on the application and they have a ability to transfer their NFT's to other. Users can post their status just like Facebook and Twitter and can like and make a comment on other user posts.
 
 https://opensea.io/collection/djenerates-clubbing-edition
 
-### Meggafone Web Application
+### - Meggafone Web Application
 Meggafone is a web application and tool for users to schedule their posts on social media. Users can post directly on multiple social media at once and also can schedule their posts as per their needs. I have created wireframes for this project and also tested this project and delivered it to the client.
 
 https://app.meggafone.com/user/registeruser?id=0
 
-### Piptle wallet based mobile application
+### - Piptle wallet based mobile application
 The Pipezi Wallet is a mnemonics-based mobile wallet that is highly secure, that stores your crypto assets. It currently supports Ethereum and ERC20 tokens. As a decentralized wallet, it provides you with the security and privacy you are looking for in an easy-to-use and accessible interface. You can easily switch between mobiles and restore your assets by using a 12-Word Mnemonic phrase. Application is live and available on the Apple and google play store.
 
 https://play.google.com/store/apps/details?id=com.pipezi&hl=en&gl=US
 
-### StudioDrops NFT web application
+### - StudioDrops NFT web application
 Studio Drops is a Whitelabel marketing platform and a marketplace that services enterprises to promote and sell curated art (digital and physical) on behalf of brands and artists associated with them. The platform will enable the exhibition, primary and secondary purchase marketplaces for NFTs in a variety of ways including but not limited to live auctions, silent auctions, raffles and direct purchases.
 
 https://test.studiodrops.com/
