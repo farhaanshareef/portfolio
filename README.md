@@ -100,6 +100,12 @@ https://github.com/farhaanshareef/Alerthandling
 
 ## Projects
 
+### KwikTrust NFT web application:
+
+KwikTrust is a project that aims to revolutionize document verification and authentication processes. It offers a secure and efficient platform for individuals and organizations to verify the authenticity of documents and identities. Through the use of advanced technologies like blockchain and artificial intelligence, KwikTrust ensures tamper-proof verification and eliminates the need for physical document handling. It streamlines processes, reduces fraud, and enhances trust in various industries such as finance, real estate, and legal services. KwikTrust is poised to simplify document verification while enhancing security and reliability in a digital world.
+
+https://kwiktrust.com/
+
 ### Atlas Dex:
 
 Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) platform for trading cryptocurrencies, providing users with a secure and transparent environment for their transactions.
