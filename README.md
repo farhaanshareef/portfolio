@@ -78,10 +78,16 @@ Strong knowledge of software development lifecycle (SDLC) and software testing m
 
 ## Github Repository
   - Automation of Kwiktrust NFT web application:
+  
 https://github.com/farhaanshareef/KwikTrustNFTApp
 
   - Understanding the waits in selenium:
+
 https://github.com/farhaanshareef/WaitsSelenium
+
+  - Automation of Gamesfi web application:
+ 
+https://github.com/farhaanshareef/Gamesfi
 
 ## Contact Me
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to say hello. You can connect with me through the following channels:
