@@ -43,8 +43,15 @@ View my professional resume and work history. Here is the <a href="https://docs.
   - Conducted end-to-end testing using the collection runner feature in Postman.
   - Implemented data-driven testing using JSON and CSV files in Postman.
 
-#### Cypress
 #### Appium
+  - Open-source framework for mobile app testing.
+  - Supports both Android and iOS platforms.
+  - Worked with Appium Inspector tool for inspecting mobile app elements.
+  - Automated and wrote automation scripts for the regression suite of an Android mobile app using Selenium and Appium.
+
+#### Cypress
+
+
 #### Pycharm IDE
 #### Jenkins
 Programming Languages: Java, Python, POM pattern
