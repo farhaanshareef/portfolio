@@ -25,7 +25,29 @@ Quality Assurance Engineer with almost 5 years of experience seeking a challengi
 View my professional resume and work history. Here is the <a href="https://docs.google.com/document/d/1uxYLlVIIQQITTtbYFacG_p4qRNEbY8mHKhNYQYpmGdo/edit" target="_blank" rel="noopener noreferrer">Resume Link</a> 
 
 ## Skills
-Discover the technical skills I have acquired throughout my career. This section highlights the programming languages, frameworks, and tools I am proficient in.
+- Testing Tools: Selenium WebDriver
+  - Powerful tool for automating web and mobile applications testing.
+  - Allows for cross-browser and cross-platform testing.
+  - Created a hybrid automation framework for the organization using Selenium WebDriver and Python.
+  - Utilized the pytest framework to generate comprehensive test reports for stakeholders.
+
+- Testing Tools: JMeter
+  - Open-source tool for load and performance testing.
+  - Created extensive testplans for the stakeholders and generated HTML reports.
+  
+- Postman
+- Cypress
+- Appium
+- Pycharm IDE
+- Jenkins
+- Azure Devops
+Programming Languages: Java, Python, POM pattern
+Version Control: Git, CI/CD and running script on jenkins server
+Bug Tracking: JIRA, Bugzilla
+Databases: MySQL, MongoDB
+Operating Systems: Windows, Linux
+Agile Methodologies: Scrum, Kanban
+Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
 ## Tools
 Explore the various programming languages, development frameworks, and tools that I frequently use in my projects. This section provides an insight into my preferred development environment.
