@@ -87,7 +87,7 @@ https://github.com/farhaanshareef/WaitsSelenium
 
   - Automation of Gamesfi web application:
  
-https://github.com/farhaanshareef/Gamesfi
+https://github.com/farhaanshareef/GamesfiApp
 
 ## Contact Me
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to say hello. You can connect with me through the following channels:
