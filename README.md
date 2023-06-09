@@ -147,11 +147,11 @@ https://test.studiodrops.com/
 ## Documents
 Below are the links of the documents that have been created me for the organizations and stakeholders.
 
-### Testplan document:
+### - Testplan document:
 
 https://docs.google.com/document/d/1DuJXw0tnrPgrEFXjUUlNKbSzkbnGTx8T/edit?usp=sharing&ouid=102726326802375563997&rtpof=true&sd=true
 
-### Testcases:
+### - Testcase documents:
 
 https://docs.google.com/document/d/18Ef38T46CrW9vsqYom1PLL3V32KLKmmcfGfGRdsyUow/edit?usp=sharing
 
@@ -160,6 +160,24 @@ https://docs.google.com/document/d/1yHsCI9_urMAwpxobT2UEwYRYX8xLBDMA0mBWnGYeESM/
 https://docs.google.com/document/d/17zdgFxrGtKqrN9aoRibVbiGxrX_21F5l_zWZa2F0biw/edit?usp=sharing
 
 https://docs.google.com/document/d/1oB6udfLj57EeH49YACGOzFE8JTbUJAzs9LiLhaV56EY/edit?usp=sharing
+
+### - Proposal documents:
+
+https://drive.google.com/file/d/19En4LLYhALcYxVmMU4GvvS19PMR-dyQY/view?usp=sharing
+
+https://drive.google.com/file/d/1wbiX9N2pSKfroMzy9oQ1Qeu-LZyZjCuX/view?usp=sharing
+
+https://drive.google.com/file/d/1T8I59AQJxZQn18IXDI_VPCT-haxVn2u3/view?usp=sharing
+
+https://drive.google.com/file/d/1NpenMOMV7WcAPlpUxcCJk6amp3V7waw7/view?usp=sharing
+
+https://drive.google.com/file/d/1nHqIR9hMCI39DpvwzrmuZ7YM1GMSTuNO/view?usp=sharing
+
+https://drive.google.com/file/d/1AqAbIXO3mJP-qa1JtPcJIQwmvzeLVDpM/view?usp=sharing
+
+https://drive.google.com/file/d/1yZFufTNt4E_pLVmIi93Nlb-fDRGBKbId/view?usp=sharing
+
+https://drive.google.com/file/d/1bttPYy9Ulc7M1Em85zcB6Een43YW5a6g/view?usp=sharing
 
 
 ## Wireframes
