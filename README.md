@@ -9,6 +9,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Contact Me](#Contact-Me)
 
 ## About Me
 In this section, you can learn more about my background, experience, and professional journey.
