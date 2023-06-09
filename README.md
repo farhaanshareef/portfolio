@@ -77,15 +77,15 @@ View my professional resume and work history. Here is the <a href="https://docs.
 Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
 ## Github Repository
-  - Automation of Kwiktrust NFT web application:
+  - Automation of Kwiktrust NFT web application using Selenium:
   
 https://github.com/farhaanshareef/KwikTrustNFTApp
 
-  - Understanding the waits in selenium:
+  - Understanding the waits in selenium using Selenium:
 
 https://github.com/farhaanshareef/WaitsSelenium
 
-  - Automation of Gamesfi web application:
+  - Automation of Gamesfi web application using Selenium:
  
 https://github.com/farhaanshareef/GamesfiApp
 
@@ -93,7 +93,7 @@ https://github.com/farhaanshareef/GamesfiApp
   
 https://github.com/farhaanshareef/IframesandDropdown
 
-  - Alert handling in selenium examples
+  - Alert handling in Selenium examples
  
 https://github.com/farhaanshareef/Alerthandling
 
