@@ -7,7 +7,6 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [About Me](#about-me)
 - [Resume](#resume)
 - [Testing Tools](#testing-tools)
-- [Tools](#tools)
 - [Github Repository](#Github-Repository)
 - [Projects](#Projects)
 - [Documents](#Documents)
