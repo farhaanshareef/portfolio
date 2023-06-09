@@ -100,11 +100,20 @@ https://github.com/farhaanshareef/Alerthandling
 
 ## Projects
 
-Atlas Dex:
+### Atlas Dex:
 
 Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) platform for trading cryptocurrencies, providing users with a secure and transparent environment for their transactions.
 
 https://atlasdex.finance/
+
+### Add.XYZ DEFI protocol mobile application
+ADD.XYZ is the next generation of DeFi Mobile Apps, Monitor your portfolio, lend  your assets, check the news and seamlessly access other Decentralised Finance Protocols on Mobile.
+
+### JENR8 Crypto wallet and NFT mobile application
+JENR8 is a block chain-based wallet mobile application where users can send and receive ERC-20 tokens. Users can also import their NFT's on the application and they have a ability to transfer their NFT's to other. Users can post their status just like Facebook and Twitter and can like and make a comment on other user posts.
+
+### Meggafone Web Application
+Meggafone is a web application and tool for users to schedule their posts on social media. Users can post directly on multiple social media at once and also can schedule their posts as per their needs. I have created wireframes for this project and also tested this project and delivered it to the client.
 
 
 ## Contact Me
