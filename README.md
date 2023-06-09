@@ -27,55 +27,55 @@ Quality Assurance Engineer with almost 5 years of experience seeking a challengi
 View my professional resume and work history. Here is the <a href="https://docs.google.com/document/d/1uxYLlVIIQQITTtbYFacG_p4qRNEbY8mHKhNYQYpmGdo/edit" target="_blank" rel="noopener noreferrer">Resume Link</a> 
 
 ## Testing Tools:
-#### Selenium WebDriver
+#### -Selenium WebDriver
   - Powerful tool for automating web and mobile applications testing.
   - Allows for cross-browser and cross-platform testing.
   - Created a hybrid automation framework for the organization using Selenium WebDriver and Python.
   - Utilized the pytest framework to generate comprehensive test reports for stakeholders.
 
-#### JMeter
+#### -JMeter
   - Open-source tool for load and performance testing.
   - Created extensive testplans for the stakeholders and generated HTML reports.
   - Implemented data-driven testing using JSON and CSV files.
   
-#### Postman
+#### -Postman
   - Popular API testing tool with a user-friendly interface.
   - Created collections and performed unit testing for each endpoint using Postman.
   - Conducted end-to-end testing using the collection runner feature in Postman.
   - Implemented data-driven testing using JSON and CSV files in Postman.
 
-#### Appium
+#### -Appium
   - Open-source framework for mobile app testing.
   - Supports both Android and iOS platforms.
   - Worked with Appium Inspector tool for inspecting mobile app elements.
   - Automated and wrote automation scripts for the regression suite of an Android mobile app using Selenium and Appium.
 
-#### Cypress
+#### -Cypress
   - Modern JavaScript-based end-to-end testing framework.
   - Enables fast, reliable, and easy-to-write automated tests.
 
-#### Pycharm IDE
+#### -Pycharm IDE
   - Powerful Python IDE with intelligent code assistance.
   - Offers a wide range of features for efficient development.
 
-#### Jenkins
+#### -Jenkins
   - Widely-used open-source automation server for CI/CD.
   - Enables building, testing, and deploying software projects.
   
-#### Programming Languages: 
+#### -Programming Languages: 
   - Python
   - Java
   - JavaScript
  
-#### Bug Tracking: 
+#### -Bug Tracking: 
   - JIRA
   - Clickup
   - Trello
   
-#### Databases: 
+#### -Databases: 
   - MongoDB
 
-#### Agile Methodologies: 
+#### -Agile Methodologies: 
 Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
 ## Github Repository
