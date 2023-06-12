@@ -146,6 +146,10 @@ https://test.studiodrops.com/
 ## Documents
 Below are the links of the documents that have been created me for the organizations and stakeholders.
 
+### - SQA Document for the QA community
+
+https://www.linkedin.com/feed/update/urn:li:activity:6983768828971245568/
+
 ### - Testplan document:
 
 https://docs.google.com/document/d/1DuJXw0tnrPgrEFXjUUlNKbSzkbnGTx8T/edit?usp=sharing&ouid=102726326802375563997&rtpof=true&sd=true
