@@ -65,7 +65,7 @@ View my professional resume and work history. Here is the <a href="https://docs.
 #### - Programming Languages: 
   - Python
   - Java
-  - JavaScript
+  - JavaScript (Beginner)
  
 #### - Bug Tracking: 
   - JIRA
