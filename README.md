@@ -18,6 +18,7 @@ Quality Assurance Engineer with almost 5 years of experience seeking a challengi
 
 - Strong knowledge of test planning, implementation, and execution.
 - Proficient in manual testing, API testing, and test automation tools.
+- Strong knowledge of Blockchain, NFT's, Web3.0 and Decentralized applications.
 - Experience in identifying high-level test strategies and troubleshooting issues.
 - Strong collaboration and communication skills with cross-functional teams.
 - Detail-oriented and committed to delivering high-quality software products.
