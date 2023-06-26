@@ -88,7 +88,7 @@ https://github.com/farhaanshareef/KwikTrustNFTApp
 
 https://github.com/farhaanshareef/MetaMaskWalletAutomation
 
-  - Understanding the waits in selenium using Selenium:
+  - Understanding and usage the waits in selenium using Selenium
 
 https://github.com/farhaanshareef/WaitsSelenium
 
@@ -96,7 +96,7 @@ https://github.com/farhaanshareef/WaitsSelenium
  
 https://github.com/farhaanshareef/GamesfiApp
 
-  - Handling Iframes and dropdown in Selenium
+  - Handling Iframes and dropdown in Selenium examples
   
 https://github.com/farhaanshareef/IframesandDropdown
 
@@ -108,11 +108,11 @@ https://github.com/farhaanshareef/Alerthandling
 
 https://github.com/farhaanshareef/Submit-Form-with-Faker-Library
 
-  - Submit form with loop in Selenium examples
+  - Example of submit form with loop in Selenium
 
 https://github.com/farhaanshareef/Submit-Form
 
-  - This repository provides explanations of uploading and downloading a file in Selenium with Python
+  - Example of uploading and downloading a file in Selenium with Python
 
 https://github.com/farhaanshareef/Upload_download_File
 
