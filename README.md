@@ -84,6 +84,10 @@ Strong knowledge of software development lifecycle (SDLC) and software testing m
   
 https://github.com/farhaanshareef/KwikTrustNFTApp
 
+  - Automation of the MetaMask wallet with Selenium Webdriver with Page Object Model Pattern.
+
+https://github.com/farhaanshareef/MetaMaskWalletAutomation
+
   - Understanding the waits in selenium using Selenium:
 
 https://github.com/farhaanshareef/WaitsSelenium
@@ -99,6 +103,19 @@ https://github.com/farhaanshareef/IframesandDropdown
   - Alert handling in Selenium examples
  
 https://github.com/farhaanshareef/Alerthandling
+
+  - Submit form with Faker library in Selenium examples
+
+https://github.com/farhaanshareef/Submit-Form-with-Faker-Library
+
+  - Submit form with loop in Selenium examples
+
+https://github.com/farhaanshareef/Submit-Form
+
+  - This repository provides explanations of uploading and downloading a file in Selenium with Python
+
+https://github.com/farhaanshareef/Upload_download_File
+
 
 ## Projects
 
