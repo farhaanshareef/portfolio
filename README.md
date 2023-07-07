@@ -116,6 +116,10 @@ https://github.com/farhaanshareef/Submit-Form
 
 https://github.com/farhaanshareef/Upload_download_File
 
+  - Example of submitting a form with faker library with Selenium with Python
+
+https://github.com/farhaanshareef/Submit-Form-with-Faker-Library
+
 
 ## Projects
 
