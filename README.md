@@ -14,14 +14,14 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Contact Me](#Contact-Me)
 
 ## About Me
-Quality Assurance Engineer with almost 5 years of experience seeking a challenging role in software product quality assurance. Skilled in test planning, execution, and bug tracking, with expertise in manual testing, API testing, and test automation. Committed to delivering high-quality software solutions. 
+Quality Assurance Engineer with over 6 years of experience seeking a challenging role in software product quality assurance. Skilled in test planning, execution, and bug tracking, with expertise in manual testing, API testing, and test automation. Committed to delivering high-quality software solutions. 
 
 - Strong knowledge of test planning, implementation, and execution.
-- Proficient in manual testing, API testing, and test automation tools.
+- Proficient in manual testing, Web UI Automtion, Mobile UI Automation, API testing and performance testing.
 - Strong knowledge of Blockchain, NFT's, Web3.0 and Decentralized applications.
-- Experience in identifying high-level test strategies and troubleshooting issues.
 - Strong collaboration and communication skills with cross-functional teams.
 - Detail-oriented and committed to delivering high-quality software products.
+- Experience in managing a QA team.
 
 
 ## Resume
@@ -41,9 +41,12 @@ View my professional resume and work history. Here is the <a href="https://drive
   
 #### - Postman
   - Popular API testing tool with a user-friendly interface.
-  - Created collections and performed unit testing for each endpoint using Postman.
-  - Conducted end-to-end testing using the collection runner feature in Postman.
+  - Conducted end-to-end testing with newman and CI/CD implementation with Bitbucket.
   - Implemented data-driven testing using JSON and CSV files in Postman.
+
+#### - API Automation
+  - Automated e2e API's using Python with request package.
+  - Automated e2e API's with Rest Assured.
 
 #### - Appium
   - Open-source framework for mobile app testing.
@@ -58,10 +61,13 @@ View my professional resume and work history. Here is the <a href="https://drive
 #### - IDE
   - Pycharm IDE, Powerful Python IDE with intelligent code assistance.
   - VS Code.
+  - Intellij.
+  - Android Studio.
 
-#### - Jenkins
-  - Widely-used open-source automation server for CI/CD.
-  - Enables building, testing, and deploying software projects.
+#### - CI/CD
+  - Jenkins
+  - Microsoft Azure
+  - Bitbucket
   
 #### - Programming Languages: 
   - Python
@@ -75,11 +81,20 @@ View my professional resume and work history. Here is the <a href="https://drive
   
 #### - Databases: 
   - MongoDB
+  - SQL
 
 #### - Agile Methodologies: 
 Strong knowledge of software development lifecycle (SDLC) and software testing methodologies.
 
 ## Github Repository
+  - API Automation with Rest Assured:
+
+https://github.com/farhaanshareef/api-automation-rest-assured
+
+  - API Automation with Python:
+
+https://github.com/farhaanshareef/api-automation
+
   - Automation of Kwiktrust NFT web application using Selenium:
   
 https://github.com/farhaanshareef/KwikTrustNFTApp
@@ -134,11 +149,6 @@ https://kwiktrust.com/
 Atlasdex.finance is a project aiming to create a decentralized exchange (DEX) platform for trading cryptocurrencies, providing users with a secure and transparent environment for their transactions.
 
 https://atlasdex.finance/
-
-### - DukkanTek POS:
-Dukkantek POS is a retail-focused Point of Sale system that streamlines operations and enhances customer experience. It integrates sales, inventory management, and CRM functions into a comprehensive software solution. Businesses can process transactions efficiently, track inventory in real-time, and manage customer data effectively. With its user-friendly interface and customizable features, Dukkantek POS aims to optimize retail operations and drive business growth.
-
-https://play.google.com/store/apps/details?id=com.dukkantek.pos&hl=en&gl=US
 
 ### - Add.XYZ DEFI protocol mobile application
 ADD.XYZ is the next generation of DeFi Mobile Apps, Monitor your portfolio, lend  your assets, check the news and seamlessly access other Decentralised Finance Protocols on Mobile.
