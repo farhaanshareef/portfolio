@@ -53,6 +53,7 @@ View my professional resume and work history. Here is the <a href="https://drive
   - Supports both Android and iOS platforms.
   - Worked with Appium Inspector tool for inspecting mobile app elements.
   - Automated and wrote automation scripts for the regression suite of an Android mobile app using Selenium and Appium.
+  - Automated Flutter Mobile Application using Appium flutter driver.
 
 #### - Cypress
   - Modern JavaScript-based end-to-end testing framework.
