@@ -5,7 +5,6 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Resume](#resume)
 - [Testing Tools](#testing-tools)
 - [Github Repository](#Github-Repository)
 - [Projects](#Projects)
@@ -22,10 +21,6 @@ Quality Assurance Engineer with over 6 years of experience seeking a challenging
 - Strong collaboration and communication skills with cross-functional teams.
 - Detail-oriented and committed to delivering high-quality software products.
 - Experience in managing a QA team.
-
-
-## Resume
-View my professional resume and work history. Here is the <a href="https://drive.google.com/file/d/14tpqcLRjRcOtWkeA0mE4chg37lE1phzA/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link</a> 
 
 ## Testing Tools:
 #### - Selenium WebDriver
